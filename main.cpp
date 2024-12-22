@@ -61,7 +61,6 @@ int main() {
 			// convert yvalue into floating-point first
 			double yval = yvalues[j];
 			z_ma += yval/nw; // Accumulate the moving avg
-			std::cout << "z_ma is " << z_ma << std::endl;
 		}
 		avgs.push_back(z_ma); // Add to storage container
 	}
