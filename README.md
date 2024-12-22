@@ -1,0 +1,1 @@
+To test the program, download and extract the .zip file. Using a terminal window, execute the file named "main" for linux-amd64 systems, "macos" for macOS systems, or "main.exe" for windows systems. Make sure to use a terminal window, like Windows PowerShell or Command Prompt. Otherwise, the program will quit as soon as the result is shown.
