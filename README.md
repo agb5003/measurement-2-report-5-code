@@ -7,8 +7,8 @@ and then run the .exe with
 .\main.exe
 ```
 
-
-On macOS, there is a possibility that the system won't allow executing the "macos" file, because it's downloaded from the internet. To circumvent this, click "show in Finder" or find the file manually in Finder, right click on it, and click open. Afterwards, this executable will be accessible. Now use the terminal to test the program:
+On macOS, there is a possibility that the system won't allow executing the "macos" file, because it's downloaded from the internet. To circumvent this, click "show in Finder" or find the file manually in Finder, right click on it, and click open. Afterwards, this executable will be accessible. Now use the terminal to make the program executable and run it:
 ```zsh
+chmod +x macos
 ./macos
 ```
